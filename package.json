@@ -1,0 +1,21 @@
+{
+  "name": "@sheplu/blog-publish-node",
+  "version": "1.0.0",
+  "description": "[Blog] Example - Publish npm package on Github and npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"Building...\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheplu/blog-publish-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sheplu/blog-publish-node/issues"
+  },
+  "homepage": "https://github.com/sheplu/blog-publish-node#readme"
+}
