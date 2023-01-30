@@ -1,6 +1,6 @@
 {
   "name": "@sheplu/blog-publish-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "[Blog] Example - Publish npm package on Github and npm",
   "main": "index.js",
   "scripts": {
